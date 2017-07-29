@@ -1,0 +1,7 @@
+* text=auto
+
+*.sh text eol=lf
+
+*.rs text diff=rust
+
+Cargo.toml text diff=toml
